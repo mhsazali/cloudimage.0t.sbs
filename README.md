@@ -107,7 +107,7 @@ UbuntuServer-21.10
 [OVA](https://bucket0b5ffa08.0t.sbs/ubuntu-21.10-server-cloudimg-amd64.ova)
 
 UbuntuServer-22.04
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/ubuntu-22.04-live-server-amd64.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/ubuntu-22.04-live-server-amd64.iso)
 [IMG](https://bucket0b5ffa08.0t.sbs/ubuntu-22.04-server-cloudimg-amd64.img)
 [OVA](https://bucket0b5ffa08.0t.sbs/ubuntu-22.04-server-cloudimg-amd64.ova)
 
