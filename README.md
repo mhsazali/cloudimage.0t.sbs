@@ -45,37 +45,37 @@ Linux镜像来自各自Linux发行版的官方云镜像站点
 
 WIN7-SP1
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso)
 
 
 WIN7-SP1-7601.24214-英文版
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso)
 
 
 Windows10-21H2
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/zh-cn_windows_10_business_editions_version_21h2_updated_april_2022_x64_dvd_b0024895.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/zh-cn_windows_10_business_editions_version_21h2_updated_april_2022_x64_dvd_b0024895.iso)
 
 
 WIN10-LTSC-2021
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO)
+[ISO](https://bucket0b5ffa08.0t.sbs/SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO)
 
 
 Windows11
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/zh-cn_windows_11_business_editions_updated_april_2022_x64_dvd_dec0b963.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/zh-cn_windows_11_business_editions_updated_april_2022_x64_dvd_dec0b963.iso)
 
 
 WindowsServer2019
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/cn_windows_server_2019_updated_july_2020_x64_dvd_2c9b67da.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/cn_windows_server_2019_updated_july_2020_x64_dvd_2c9b67da.iso)
 
 
 WindowsServer2022
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/zh-cn_windows_server_2022_x64_dvd_6c73507d.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/zh-cn_windows_server_2022_x64_dvd_6c73507d.iso)
 
 
 FreeBSD-13.1
@@ -94,12 +94,12 @@ SUSE-LINUX-15.5
 
 VMware-ESXI-6.7.0
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/VMware-VMvisor-Installer-6.7.0.update03-14320388.x86_64.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/VMware-VMvisor-Installer-6.7.0.update03-14320388.x86_64.iso)
 
 
 VMware-ESXI-7.0.0
 
-[ISO 64位](https://bucket0b5ffa08.0t.sbs/VMware-VMvisor-Installer-7.0.0-15843807.x86_64.iso)
+[ISO](https://bucket0b5ffa08.0t.sbs/VMware-VMvisor-Installer-7.0.0-15843807.x86_64.iso)
 
 
 Debian-9.13.37
