@@ -26,8 +26,8 @@ Linux镜像来自各自Linux发行版的官方云镜像站点
 在虚拟化环境中使用的镜像 默认选取带有cloudinit和虚拟化驱动的镜像
 
 4.虚拟化镜像的默认用户名密码是多少？
-如果未说明用户名密码的 就是需要用cloudinit来重置密码的
-[这里加一个infoq的链接 如何使用virt-customize重置密码]
+如果未说明用户名密码的 就是需要重置密码的
+[使用virt-customize重置镜像密码](https://cloud.tencent.com/developer/article/2007068)
 
 5.下载速度不够快怎么办
 可以参考此文章 将你的本地网络环境收集后发送给本站
